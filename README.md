@@ -30,7 +30,7 @@
 
   <div id="badges">
     <a href="https://discord.gg/kbVCaHUs" target="_blank">
-      <img src="https://www.flaticon.com/free-icon/discord_3670157?term=discord&page=1&position=29&origin=search&related_id=3670157.png" width="40" height="40" alt="discord chanel" />
+      <img src="https://github.com/ZeRcooI/ZeRcooI/assets/94679102/ee08be0d-ceb6-412c-8087-f70adf12710d" width="40" height="40" alt="discord chanel" />
     </a>
     <a href="https://t.me/ZeRcooI" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
