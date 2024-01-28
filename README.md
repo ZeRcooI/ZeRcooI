@@ -111,4 +111,4 @@
   </tr>
 </table>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=zercool)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?username=ZeRcooI)
