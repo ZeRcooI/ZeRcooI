@@ -3,7 +3,7 @@
 
 ---
 
-### :man_technologist: Обо мне:
+### :man_technologist: Обо мне: <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FZeRcooI%2FZeRcooI%2Fedit%2Fmain%2FREADME.md"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FZeRcooI%2FZeRcooI%2Fedit%2Fmain%2FREADME.md&label=visitors&labelColor=%2337d67a&countColor=%232ccce4&style=flat&labelStyle=lower" /></a>
 
  
 Преподаватель онлайн-школы программирования EasyCode <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Начал свой путь с успешного завершения курсов C# и основ Unity на курсах от Романа Сакутина. Затем углубил знания, проходя курсы по Unity на платформе Udemy.
@@ -110,5 +110,3 @@
     </td>
   </tr>
 </table>
-
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FZeRcooI%2FZeRcooI%2Fedit%2Fmain%2FREADME.md"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FZeRcooI%2FZeRcooI%2Fedit%2Fmain%2FREADME.md&label=visitors&labelColor=%2337d67a&countColor=%232ccce4&style=flat&labelStyle=lower" /></a>
