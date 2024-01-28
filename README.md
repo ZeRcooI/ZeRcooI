@@ -18,11 +18,11 @@
 
 - :telescope: Участвовал в практикуме Владилена Минина(Основы программирования).
 
-- :seedling: Завершил курсы по Unity(2d b 3d) на платформе Udemy!
+- :seedling: Завершил курсы по Unity(2d и 3d) на платформе Udemy!
 
 - :zap: Завершаю курсы по Web-Разработке от Ивана Петриченко.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ZeRcooI) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mihanpan1996@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-ZeRcooI-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ZeRcooI) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mihanpan1996@gmail.com)
 
 ---
 
