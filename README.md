@@ -111,4 +111,4 @@
   </tr>
 </table>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=94679102)
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FZeRcooI%2FZeRcooI%2Fedit%2Fmain%2FREADME.md"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FZeRcooI%2FZeRcooI%2Fedit%2Fmain%2FREADME.md&label=visitors&labelColor=%2337d67a&countColor=%232ccce4&style=flat&labelStyle=lower" /></a>
