@@ -75,7 +75,7 @@
 <div>
 
  
-  <img src="https://icons8.com/icon/84507/movavi" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
+  <img src="https://icons8.com/icon/84507/movavi.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" title="notion" alt="notion" width="40" height="40"/>&nbsp;
