@@ -11,7 +11,9 @@
 
 На данный момент моя фокусировка на развитии в веб-разработке, а в качестве следующего важного шага ставлю перед собой цель успешно пройти собеседование на позицию Middle разработчика. Готов предоставить обширные знания и навыки, а также применить опыт преподавания в обучении студентов и взаимодействии в командной среде. В поиске новых вызовов и возможностей для профессионального роста.
 
-[Также помогаю с покупками на площадке FanPay](https://funpay.com/users/5391154/)
+[Также помогаю с покупками на площадке FanPay](https://funpay.com/users/5391154/) <img src="https://gifs.ru/gifs/cbc317ea9b540b8d4af83e8f237c57a8a4ea15f88e889b1fa45e12347287d60e" width="30px">.
+
+https://gifs.ru/embed/cbc317ea9b540b8d4af83e8f237c57a8a4ea15f88e889b1fa45e12347287d60e" width="480" height="480" frameBorder="0" allowFullScreen></iframe><p><a href="https://gifs.ru/gifs/cbc317ea9b540b8d4af83e8f237c57a8a4ea15f88e889b1fa45e12347287d60e
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
