@@ -28,8 +28,6 @@
 - 📬️ Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-ZeRcooI-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ZeRcooI) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mihanpan1996@gmail.com)
 
 - 👑 [Мой постоянный ассистент](https://github.com/ZeRcooI/Developers-Assistant)
-  
-- 🌐 [Сайт-Визитка. Со временем будут вноситься доработки](https://zercool.ru/)
 
 ---
 
