@@ -23,7 +23,8 @@
 
 - 🤗 Завершил курс по Web-Разработке от Ивана Петриченко. [Сертификат](https://postimg.cc/RJtQJHJw)
   
-- ⚡ Активно прохожу курс по JavaScript + React от Ивана Петриченко.
+- ⚡ Активно прохожу курс по Английском языку от Александра Бебриса. 
+[Сертификат Beginner](#) | [Сертификат Elementary](#) | [Сертификат Pre-Intermediate](#) | [Сертификат Intermediate](#) | [Сертификат Upper-Intermediate](#) | [Сертификат Advanced](#)
 
 - 📬️ Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-ZeRcooI-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ZeRcooI) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mihanpan1996@gmail.com)
 
