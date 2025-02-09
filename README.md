@@ -22,8 +22,10 @@
 - 🌱 Завершил несколько курсов по Unity2D и 3D(GameDev.tv Team) на платформе Udemy, что позволило стать преподавателем в этой сфере и зарабатывать! [Сертификат 2D](https://postimg.cc/Y4zb3VRj) | [Сертификат 3D](https://postimg.cc/f3rfWfZt)
 
 - 🤗 Завершил курс по Web-Разработке от Ивана Петриченко. [Сертификат](https://postimg.cc/RJtQJHJw)
+
+- 🤗 Завершил курс по Python, включая Django, Pygame, Jupyter, Data Science и Machine Learning от Богдана Стащука. [Сертификат](https://postimg.cc/8f4bLQB2)
   
-- ⚡ Активно прохожу курсы по Английском языку. 
+- ⚡ Пройдены курсы по разработке Backend на Django, а также разработке Telegram Bots, на aiogram. 
 
 - 📬️ Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-ZeRcooI-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ZeRcooI) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mihanpan1996@gmail.com)
 
