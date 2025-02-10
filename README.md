@@ -67,8 +67,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-plain-wordmark.svg" title="numpy-plain-wordmark" alt="numpy-plain-wordmark" width="40" height="40"/>&nbsp 
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-plain-wordmark.svg" title="pandas-plain-wordmark" alt="pandas-plain-wordmark" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python-original" alt="python-original" width="40" height="40"/>&nbsp
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp
 </div>
 
 ---
